@@ -1,0 +1,27 @@
+_repo: Pictures-of-Jewish-Home-Life-Fifty-Years-Ago_15173
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trager, Hannah
+    gutenberg_agent_id: '5902'
+    url: http://www.gutenberg.org/2009/agents/5902
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2005-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BM'
+- !lcsh 'Jerusalem -- Social life and customs'
+- !lcsh 'Jews -- Social life and customs'
+- !lcsh 'Children -- Palestine'
+title: Pictures of Jewish Home-Life Fifty Years Ago
+url: http://www.gutenberg.org/ebooks/15173
